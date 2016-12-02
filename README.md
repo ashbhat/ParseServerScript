@@ -32,7 +32,7 @@ Creating mongolab:sandbox on ⬢ example-app-73274... free
 ... normal mongoDB stuff ...
 
 Your mongodb address is mongodb://heroku_****@****.mlab.com:****/heroku_****
-Your server has been created. Go into new_server and in index.js update your app id and master key
+Your server has been created. Go into new_server and in index.js update your **app id** and **master key**
 ```
 
 To use the parse dashboard GUI go to [your parse dashboard](https://dashboard.parse.com/apps) and tap "Create a new App"
