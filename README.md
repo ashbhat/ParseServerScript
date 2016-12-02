@@ -47,8 +47,8 @@ Creating mongolab:sandbox on ⬢ example-app-73274... free
 Welcome to mLab.  Your new subscription is being created and will be available shortly.  Please consult the mLab Add-on Admin UI to check on its progress.
 Created mongolab-triangular-15472 as MONGODB_URI
 Use heroku addons:docs mongolab to view documentation
-Setting DATABASE_URI and restarting ⬢ protected-everglades-73274... done, v5
-DATABASE_URI: mongodb://heroku_9f19dnkt:17o1nlc3211njgkigmrcoi5m29@ds119588.mlab.com:19588/heroku_9f19dnkt
-Your mongodb address is mongodb://heroku_9f19dnkt:17o1nlc3211njgkigmrcoi5m29@ds119588.mlab.com:19588/heroku_9f19dnkt
+Setting DATABASE_URI and restarting ⬢ pexample-app-73274... done, v5
+DATABASE_URI: mongodb://heroku_****@****.mlab.com:****/heroku_****
+Your mongodb address is mongodb://heroku_****@****.mlab.com:****/heroku_****
 Your server has been created. Go into new_server and in index.js update your app id and master key
 ```
